@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOPS-Experiments-with-mlflow/mlruns/351184637799457216/bdc98df8a3514364a6f33cd9a2fcd30e/artifacts
+end_time: 1758261697398
+entry_point_name: ''
+experiment_id: '351184637799457216'
+lifecycle_stage: active
+run_id: bdc98df8a3514364a6f33cd9a2fcd30e
+run_name: omniscient-shrew-857
+run_uuid: bdc98df8a3514364a6f33cd9a2fcd30e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758261697307
+status: 3
+tags: []
+user_id: nilam.borate

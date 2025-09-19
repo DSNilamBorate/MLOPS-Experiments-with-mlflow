@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a1c9e7ed2a1b49d8ae9ce14e3034d0a9/artifacts
+end_time: 1758259864791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1c9e7ed2a1b49d8ae9ce14e3034d0a9
+run_name: victorious-ray-468
+run_uuid: a1c9e7ed2a1b49d8ae9ce14e3034d0a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758259854168
+status: 3
+tags: []
+user_id: nilam.borate

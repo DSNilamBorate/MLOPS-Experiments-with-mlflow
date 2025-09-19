@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5f978f02336941a2a3e5920a380d2524/artifacts
+end_time: 1758259255646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f978f02336941a2a3e5920a380d2524
+run_name: whimsical-bear-197
+run_uuid: 5f978f02336941a2a3e5920a380d2524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758259255393
+status: 3
+tags: []
+user_id: nilam.borate

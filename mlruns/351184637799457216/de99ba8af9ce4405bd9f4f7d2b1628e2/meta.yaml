@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOPS-Experiments-with-mlflow/mlruns/351184637799457216/de99ba8af9ce4405bd9f4f7d2b1628e2/artifacts
+end_time: 1758261697592
+entry_point_name: ''
+experiment_id: '351184637799457216'
+lifecycle_stage: active
+run_id: de99ba8af9ce4405bd9f4f7d2b1628e2
+run_name: worried-bird-332
+run_uuid: de99ba8af9ce4405bd9f4f7d2b1628e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758261697502
+status: 3
+tags: []
+user_id: nilam.borate

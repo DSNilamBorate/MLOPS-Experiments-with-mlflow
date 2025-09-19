@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433906393518097878/8530e2c2e71a4f8cbc02f8dd294bb651/artifacts
+end_time: 1758259949771
+entry_point_name: ''
+experiment_id: '433906393518097878'
+lifecycle_stage: active
+run_id: 8530e2c2e71a4f8cbc02f8dd294bb651
+run_name: entertaining-kit-869
+run_uuid: 8530e2c2e71a4f8cbc02f8dd294bb651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758259941106
+status: 3
+tags: []
+user_id: nilam.borate

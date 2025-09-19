@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOPS-Experiments-with-mlflow/mlruns/351184637799457216/7a9a7d6d2fc149138679779105cd341c/artifacts
+end_time: 1758261697296
+entry_point_name: ''
+experiment_id: '351184637799457216'
+lifecycle_stage: active
+run_id: 7a9a7d6d2fc149138679779105cd341c
+run_name: colorful-finch-337
+run_uuid: 7a9a7d6d2fc149138679779105cd341c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758261697217
+status: 3
+tags: []
+user_id: nilam.borate

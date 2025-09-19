@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433906393518097878/1dd1ad60a5be4166882ecc8e2508f8fe/artifacts
+end_time: 1758260583381
+entry_point_name: ''
+experiment_id: '433906393518097878'
+lifecycle_stage: active
+run_id: 1dd1ad60a5be4166882ecc8e2508f8fe
+run_name: classy-bass-791
+run_uuid: 1dd1ad60a5be4166882ecc8e2508f8fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758260573329
+status: 3
+tags: []
+user_id: nilam.borate

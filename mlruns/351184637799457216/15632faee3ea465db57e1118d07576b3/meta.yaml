@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/MLOPS-Experiments-with-mlflow/mlruns/351184637799457216/15632faee3ea465db57e1118d07576b3/artifacts
+end_time: 1758261697206
+entry_point_name: ''
+experiment_id: '351184637799457216'
+lifecycle_stage: active
+run_id: 15632faee3ea465db57e1118d07576b3
+run_name: capricious-mole-13
+run_uuid: 15632faee3ea465db57e1118d07576b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758261697111
+status: 3
+tags: []
+user_id: nilam.borate
